@@ -1,0 +1,13 @@
+D:\Backup\Faculdade\cornowf\cornowf\bin\Debug\cornowf.exe.config
+D:\Backup\Faculdade\cornowf\cornowf\bin\Debug\cornowf.exe
+D:\Backup\Faculdade\cornowf\cornowf\bin\Debug\cornowf.pdb
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.csprojAssemblyReference.cache
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.Form1.resources
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.Properties.Resources.resources
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.csproj.GenerateResource.cache
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.csproj.CoreCompileInputs.cache
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.exe
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.pdb
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.Form2.resources
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.Form3.resources
+D:\Backup\Faculdade\cornowf\cornowf\obj\Debug\cornowf.Form4.resources
